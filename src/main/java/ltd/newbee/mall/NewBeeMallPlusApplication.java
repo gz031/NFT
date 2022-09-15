@@ -21,6 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("ltd.newbee.mall.dao")
 @SpringBootApplication
 public class NewBeeMallPlusApplication {
+//    启动成功11233
     public static void main(String[] args) {
         SpringApplication.run(NewBeeMallPlusApplication.class, args);
     }
